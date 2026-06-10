@@ -1,0 +1,17 @@
+{
+  "site": "中国政法大学国际合作与交流处出国境申请管理平台",
+  "notice_url": "https://globalstudy.cupl.edu.cn/news",
+  "api_url": "https://globalstudy.cupl.edu.cn/api/news/query",
+  "updated_at": "2026-06-10T03:18:41+00:00",
+  "total_notices": 0,
+  "sections": [
+    "通知公告",
+    "新闻动态"
+  ],
+  "latest_date": null,
+  "diagnostics": {
+    "通知公告": "HTTP Error 412: Precondition Failed",
+    "新闻动态": "HTTP Error 412: Precondition Failed"
+  },
+  "disclaimer": "非官方项目，仅归档公开网页信息，不代表中国政法大学官方。"
+}
